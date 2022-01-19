@@ -9,5 +9,4 @@ tags:
 
 收到了来自表妹的新年礼物！非常开心！谢谢！！！
 
-![full](/assets/images/metroid_gift.jpeg)
-{: .full}
+![full]({{ '/assets/images/metroid_gift.jpeg' | relative_url }}){: .full}
