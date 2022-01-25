@@ -27,6 +27,7 @@ locale: zh-CN
 masthead_title: "主页"
 url: "https://Wang-GY.github.io"
 baseurl: "/gwang-901-fish"
+logo: "/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
